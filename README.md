@@ -2,7 +2,7 @@
 
 Before you begin, ensure that your development environment meets the following requirements:
 
-- **Java:** The project requires Java Development Kit (JDK) version 17 or later. You can download the latest version of the JDK [here](https://www.oracle.com/java/technologies/javase-downloads.html) or use [OpenJDK](https://adoptopenjdk.net/).
+- **Java:** The project requires Java Development Kit (JDK) version 17 or later. You can download the latest version [here](https://www.java.com/en/).
 
 - **Gradle (Optional):** While the project includes the Gradle Wrapper (`gradlew`), you may choose to install Gradle globally. If you prefer to install Gradle, you can download it from the [official Gradle website](https://gradle.org/install/).
 
