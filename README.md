@@ -24,6 +24,8 @@ gradle bootRun
 
 This command will download the necessary dependencies, build the project, and start the Spring Boot application.
 
+The backend will only accept requests from `http://localhost:5173`. If you wish to change this, then head to `src/main/java/translatorkood/translator/TranslatorController.java` and modify the value inside the @CrossOrigin annotation.
+
 ---
 
 This tutorial was created by ChatGPT – Powered by OpenAI
